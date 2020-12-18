@@ -15,6 +15,6 @@ for creating a working game
 
 
 
-GameSicaen 2020 logo made by Loreena Liotard
+GameSicaen 2020 logo made by [Loreena Liotard](https://www.linkedin.com/in/loreena-liotard-9522b5183/)
 
 [Check the game](https://ywikyx.itch.io/duality) on itch.io
